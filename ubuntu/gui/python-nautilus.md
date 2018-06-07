@@ -1,3 +1,6 @@
+python-nautilus
+===============
+
 One can Use python-nautilus extension as an alternative to nautilus-actions.
 
 To install:
