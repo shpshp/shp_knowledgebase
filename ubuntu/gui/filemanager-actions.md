@@ -1,5 +1,5 @@
-filemanager-actions
-===================
+Actions for Nautilus
+====================
 
 Nautilus-actions configuration tool, which was needed in order to have context menu actions in Nautilus doesn't seem available in the Software center in 18.04 LTS.
 

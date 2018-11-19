@@ -1,5 +1,5 @@
-python-nautilus
-===============
+Python plugin for Nautilus
+==========================
 
 One can Use python-nautilus extension as an alternative to nautilus-actions.
 
