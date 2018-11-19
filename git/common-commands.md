@@ -1,4 +1,4 @@
-Git Common Commands
+Common Git Commands
 ===================
 
 ```bash
