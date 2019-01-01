@@ -1,4 +1,4 @@
-System all
+Update All
 ==========
 
 ```bash
