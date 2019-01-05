@@ -12,3 +12,5 @@ Some examples of using sheet names in formulas
 
 =ДВССЫЛ("'"&ТЕКСТ(ЗНАЧ(ПРАВ(ЯЧЕЙКА("filename");ДЛСТР(ЯЧЕЙКА("filename"))-НАЙТИ("$";ЯЧЕЙКА("filename"))))-1;"0")&"'!A1")
 ```
+
+[Read more on the installation.](https://tecadmin.net/install-docker-on-ubuntu/)
